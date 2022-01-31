@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OrphanManagement">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OrphanManagement.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
